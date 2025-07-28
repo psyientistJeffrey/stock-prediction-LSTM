@@ -1,6 +1,6 @@
 ## stock-prediction-LSTM
 
-Using LSTM to forecast shorterm trend of *Yuanta/P-shares Taiwan Top 50 ETF* stock price. Our model was trained on historical stock data + online public sentiment.
+Using LSTM to forecast shorterm trend of  *Yuanta/P-shares Taiwan Top 50 ETF*  stock price. Our model was trained on **historical stock data** + **online public sentiment**.
 
 
 #### 📁 Project Structure
